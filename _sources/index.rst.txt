@@ -1,0 +1,8 @@
+Nisaba sample
+=============
+
+We write together and publish through Guidedog.
+
+.. _sample:
+
+A first-release sample.
